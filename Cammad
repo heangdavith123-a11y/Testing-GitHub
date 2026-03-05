@@ -1,0 +1,4 @@
+git add  filename to add
+git commit -m"message"
+git push push to git
+git status view file that didn't push to server yet
